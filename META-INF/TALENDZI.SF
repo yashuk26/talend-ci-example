@@ -1,0 +1,125 @@
+Signature-Version: 1.0
+Created-By: Talend
+SHA-256-Digest-Manifest: OiujvZ1GVvMnecNCLKfsleJeUCfc0UvUuQZy+/mxjNU=
+
+Name: cicd/cicd_0_1.jar
+SHA-256-Digest: ot+Y8U0U72cFe8fXzAEY48e/QI6PY7YPIxCnX64cJfU=
+
+Name: cicd/cicd_run.bat
+SHA-256-Digest: d7k//b425LzpAL5SLmyQ870yC9ntfLDaXapCbYbn2tw=
+
+Name: cicd/cicd_run.ps1
+SHA-256-Digest: xLExP/OGt83SxdjJ3iyYYvtjsCkK5EK5hmb7da3wqhU=
+
+Name: cicd/cicd_run.sh
+SHA-256-Digest: cNvEuxpkOgxP6vGy34wZWlJoLCUUo0UdFvdIR6sx8z8=
+
+Name: cicd/items/talendproject/.settings/migration_task.index
+SHA-256-Digest: rxhDELpE0DMT5UsiqAD5DKnkvMGdCf8VXksAPU+Clq4=
+
+Name: cicd/items/talendproject/.settings/project.settings
+SHA-256-Digest: GKYYBduPepIZjdvIspyQdtX3g8+1sIVSpHRymh5A8CU=
+
+Name: cicd/items/talendproject/.settings/relationship.index
+SHA-256-Digest: rktlXdeRjELclGvnkeHD/y/faZCi6JhSBF9fJpJPKUo=
+
+Name: cicd/items/talendproject/process/cicd_0.1.item
+SHA-256-Digest: SkXrpD/5oshKd2LYiSuBPS8tL/7E84d9lW9VW/z6ZMM=
+
+Name: cicd/items/talendproject/process/cicd_0.1.properties
+SHA-256-Digest: /mj4aRNeyiQ4UmQ59CY+1Ud5I26V/dhtwlJN6NMnkh8=
+
+Name: cicd/items/talendproject/process/cicd_0.1.screenshot
+SHA-256-Digest: txnIVtH55gTA2Rv3r/CUJRUdfMuQ53HUmH3KBKhc/+0=
+
+Name: cicd/items/talendproject/talend.project
+SHA-256-Digest: uYuksHZpZHwuCByVrhTB9noIfs4zd0+E/+hVFeuu6Jc=
+
+Name: cicd/log4j2.xml
+SHA-256-Digest: WWR71FRJCNP163tbAE+55bkbcR8krRVp/HNt49zMJ1E=
+
+Name: cicd/src/main/java/talendproject/cicd_0_1/cicd.java
+SHA-256-Digest: wkZ2gZ6iE5QtuxPbQOD63VRLW26eF+7KKAuVTuVCw0s=
+
+Name: cicd/src/main/resources/talendproject/cicd_0_1/contexts/Default.
+ properties
+SHA-256-Digest: qEFuZyY3O1WQY1MvMoAoYxmCywDL0y1mbVjHKYThuhQ=
+
+Name: cicd/talendproject/cicd_0_1/contexts/Default.properties
+SHA-256-Digest: rycPPfkT3B8JFI7frYm7Xq6GQIEKtDzF9OJogtxxaGA=
+
+Name: jobInfo.properties
+SHA-256-Digest: m+HC1sltMVAgD3Cy5FP7zYcqxvGKy872yIW+EhwdhG0=
+
+Name: lib/accessors-smart-2.4.11.jar
+SHA-256-Digest: mAsojjfjfZSDCETguj/FXRjZ4ee1nbGfKpaylN6aMg8=
+
+Name: lib/asm-9.5.jar
+SHA-256-Digest: vZ4z7XvKDgeXyHAR5w83Jtlfkk+L0YqIzT79prsE+o4=
+
+Name: lib/audit-common-1.16.1.jar
+SHA-256-Digest: FQuuUiYHA0gEURFZrmZ2mo8m4B3YW+8fShAoPvmGdiU=
+
+Name: lib/audit-log4j2-1.16.1.jar
+SHA-256-Digest: Dhj4qkl+mvE2JNQg2nP4Eb+199h29mDForJ1zPFX/80=
+
+Name: lib/commons-lang3-3.10.jar
+SHA-256-Digest: s3vGmUZh2KjXnSOEINC9xgZqfUFD8YcTmRiJTUOqOwY=
+
+Name: lib/crypto-utils-7.1.20.jar
+SHA-256-Digest: WDf1+uePnOej/X9Naeh6oqCRT3nT1xF8xkGkJY+Dc+g=
+
+Name: lib/dom4j-2.1.3.jar
+SHA-256-Digest: hVq9Z6Oy5qkbp58JPqAOGcNVyYigCCt866KPyOXyviM=
+
+Name: lib/javassist-3.30.2-GA.jar
+SHA-256-Digest: aCrtYWaa2/JXZmkbbZmWStVv1NE4D3NcDmJ9Gp5Fk6Y=
+
+Name: lib/jboss-marshalling-2.0.12.Final.jar
+SHA-256-Digest: b3LXANpfoCBhNp9btNWKzYfaxehJi8gHUrKmO8ntz08=
+
+Name: lib/job-audit-1.5.jar
+SHA-256-Digest: bY9zVyNHyHI97W+LQPVcEmXkV9qtLT07vlkdpazQX/k=
+
+Name: lib/json-smart-2.4.11.jar
+SHA-256-Digest: Xx9P3X2FmN8q/MUaPj0BQ9Jd+XVCXh8WLHYsrfsQFWQ=
+
+Name: lib/log4j-api-2.17.1.jar
+SHA-256-Digest: JvLoY5sLco/BURcgNHgMG3mxEKdLtkFa8AAT6sHmNSE=
+
+Name: lib/log4j-core-2.17.1.jar
+SHA-256-Digest: cRa1qIo4eCqb6oqTCZVXjwCXQLpDs22oDt4cKy+sL+Y=
+
+Name: lib/log4j-layout-template-json-2.17.1.jar
+SHA-256-Digest: vUMFrNPlMbVftu4KPdB2Xn0AmFfYyPcpweg6PtWlY4c=
+
+Name: lib/log4j-slf4j2-impl-2.19.0.jar
+SHA-256-Digest: Linllu1G9CRFgND4O0XHSth2IzKOKWyX/5W9u7zXUB4=
+
+Name: lib/logging-event-layout-1.16.1.jar
+SHA-256-Digest: PmSobk+tlNUL4BWA7aGX41BTalsqdspLShVh2mrBjTE=
+
+Name: lib/routines.jar
+SHA-256-Digest: 1XkRzJUeElogtBx62fu0jE13cn20jyQMoPJQlaqo9sc=
+
+Name: lib/slf4j-api-2.0.16.jar
+SHA-256-Digest: hkPvy4LPH+Mzv60oRAdgNCLWif0/jBtQVmdcuvuwpeM=
+
+Name: lib/system-routines.jar
+SHA-256-Digest: 4I4fqFDfYuWvOTyE3O1qobKZg+W/JuXw0YmBtAbWfJg=
+
+Name: lib/talendCBP-1.1.5.jar
+SHA-256-Digest: EJtJHhhL6sgLRvZ9MSVAHXHp7TLLyCBhQOeJUm3vlUI=
+
+Name: lib/talend_file_enhanced-1.3.1.jar
+SHA-256-Digest: BQ9c9yU0DBWip1qbbeN1X9PGqBuRErs1tswJ2K1Q2ks=
+
+Name: lib/talendagent-1.0.2.jar
+SHA-256-Digest: Qjp4o47+T9ynFp4CnC6BEjJh3h54KyGULx9/xQNxyHA=
+
+Name: lib/talendboot-1.0.9.jar
+SHA-256-Digest: IVN1h7hn8IkNb+a93tpNLQ7J815Lif9nkyEjO7FXZwA=
+
+Name: lib/talendcsv-1.1.0.jar
+SHA-256-Digest: QrVTJqlts0vhIpu+wYey6Ug8H0pZJYqZrObWFK2XVA0=
+
